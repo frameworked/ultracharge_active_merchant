@@ -1240,6 +1240,12 @@ trust_commerce:
   aggregator_id: 'abc123'
 
 # Working credentials, no need to replace
+ultracharge:
+  api_login: 9eabb383df8cda0f3588185c6a44b8bbedcec426b54437193eefb6008a9f2194
+  api_password: 9a4c4bcda73002426e98c055ecfbd405f2e3caf24f7349d8738a1eec72128f30
+  channel_token: 01d52baafb92f3e1ba1f359233fe9e3f3b8567b23a5ca6b7dd274b1d0dd675a9
+
+# Working credentials, no need to replace
 usa_epay:
   login: '4EoZ5U2Q55j976W7eplC71i6b7kn4pcV'
 
